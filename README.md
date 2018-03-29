@@ -14,7 +14,7 @@ MachineCafeTest : projet de test xunit.
 
 Generics : Librairie générique (.NETStandard 2.0) ,utilisée par les projets MachineCafeAPI et MachineCafeIHM.
 
-Le projet présente un ensemble des interactions entre les différents type de framework .net.
+Le projet présente un ensemble des interactions entre les différents types de framework .net.
 
 
-L'intégration de validation de jeton JWT coté MachineCafeAPI est non réalisé !!!
+L'intégration de validation de jeton JWT coté MachineCafeAPI est non réalisée !!!

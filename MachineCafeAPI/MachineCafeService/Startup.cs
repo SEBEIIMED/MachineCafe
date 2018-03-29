@@ -103,8 +103,8 @@ namespace MachineCafe.Service
             //    AutomaticChallenge = true,
             //    TokenValidationParameters = tokenValidationParameters
             //});
-            //var sss = new CookieAuthenticationOptions();
-            //app.UseCookieAuthentication(sss);
+            
+            //app.UseCookieAuthentication(new CookieAuthenticationOptions());
             
            
         }

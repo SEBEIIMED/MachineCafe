@@ -69,6 +69,8 @@ namespace MachineCafe.Service
             });
             var signingKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(Configuration.GetSection("TokenAuthentication:SecretKey").Value));
 
+            
+              // Integration de validation de sécurité au niveau de webservice non terminée
             //var tokenProviderOptions = new TokenProviderOptions
             //{
             //    Path = Configuration.GetSection("TokenAuthentication:TokenPath").Value,

@@ -19,7 +19,7 @@ namespace MachineCafe.Core.Repository
            // s.BoissonType == choix.BoissonType && s.CodeBadge == choix.CodeBadge
             var query = this.GetAll().Where(s => (s.CustomMug == choix.CustomMug && s.SucreQuantite == choix.SucreQuantite
                                                   && s.BoissonType == choix.BoissonType && s.CodeBadge == choix.CodeBadge));
-            // on ajoute pas le choix si deja ajouter dans l'historique ou l'utilise n'a pas utilisé la badge.
+            // choix de boisson existe deja.
             if (query.Count() == 0)
                return this.Add(choix);
 

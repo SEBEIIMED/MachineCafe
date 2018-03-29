@@ -1,8 +1,4 @@
 # MachineCafe
-MachineCafe  DEMO 
-
-
-
 
 Projet demo
 

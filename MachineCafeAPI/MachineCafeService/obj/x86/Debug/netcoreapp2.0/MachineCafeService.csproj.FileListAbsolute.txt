@@ -1,0 +1,13 @@
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\x86\Debug\netcoreapp2.0\MachineCafeService.deps.json
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\x86\Debug\netcoreapp2.0\MachineCafeService.runtimeconfig.json
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\x86\Debug\netcoreapp2.0\MachineCafeService.runtimeconfig.dev.json
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\x86\Debug\netcoreapp2.0\MachineCafeService.dll
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\x86\Debug\netcoreapp2.0\MachineCafeService.pdb
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\x86\Debug\netcoreapp2.0\MachineCafe.Core.dll
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\x86\Debug\netcoreapp2.0\MachineCafe.Core.pdb
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\x86\Debug\netcoreapp2.0\MachineCafeService.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\x86\Debug\netcoreapp2.0\MachineCafeService.AssemblyInfoInputs.cache
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\x86\Debug\netcoreapp2.0\MachineCafeService.AssemblyInfo.cs
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\x86\Debug\netcoreapp2.0\MachineCafeService.csproj.CopyComplete
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\x86\Debug\netcoreapp2.0\MachineCafeService.dll
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\x86\Debug\netcoreapp2.0\MachineCafeService.pdb

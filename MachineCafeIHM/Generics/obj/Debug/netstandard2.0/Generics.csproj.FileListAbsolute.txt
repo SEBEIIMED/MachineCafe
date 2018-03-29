@@ -1,0 +1,17 @@
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\bin\Debug\netstandard2.0\Generics.deps.json
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\bin\Debug\netstandard2.0\Generics.dll
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.AssemblyInfoInputs.cache
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.AssemblyInfo.cs
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\bin\Debug\netstandard2.0\Generics.pdb
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.dll
+C:\Users\sebei\source\repos\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.pdb
+C:\MachineCafe\MachineCafeIHM\Generics\bin\Debug\netstandard2.0\Generics.deps.json
+C:\MachineCafe\MachineCafeIHM\Generics\bin\Debug\netstandard2.0\Generics.dll
+C:\MachineCafe\MachineCafeIHM\Generics\bin\Debug\netstandard2.0\Generics.pdb
+C:\MachineCafe\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.csprojResolveAssemblyReference.cache
+C:\MachineCafe\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.csproj.CoreCompileInputs.cache
+C:\MachineCafe\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.AssemblyInfoInputs.cache
+C:\MachineCafe\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.AssemblyInfo.cs
+C:\MachineCafe\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.dll
+C:\MachineCafe\MachineCafeIHM\Generics\obj\Debug\netstandard2.0\Generics.pdb

@@ -1,0 +1,16 @@
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\webapi2service.xml
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\MachineCafeAPI.deps.json
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\MachineCafeAPI.runtimeconfig.json
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\MachineCafeAPI.runtimeconfig.dev.json
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\MachineCafeAPI.dll
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\MachineCafeAPI.pdb
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\Generics.dll
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\MachineCafe.Core.dll
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\MachineCafe.Core.pdb
+C:\demo\MachineCafeAPI\MachineCafeService\bin\Debug\netcoreapp2.0\Generics.pdb
+C:\demo\MachineCafeAPI\MachineCafeService\obj\Debug\netcoreapp2.0\MachineCafeAPI.csprojResolveAssemblyReference.cache
+C:\demo\MachineCafeAPI\MachineCafeService\obj\Debug\netcoreapp2.0\MachineCafeAPI.csproj.CoreCompileInputs.cache
+C:\demo\MachineCafeAPI\MachineCafeService\obj\Debug\netcoreapp2.0\MachineCafeAPI.AssemblyInfoInputs.cache
+C:\demo\MachineCafeAPI\MachineCafeService\obj\Debug\netcoreapp2.0\MachineCafeAPI.AssemblyInfo.cs
+C:\demo\MachineCafeAPI\MachineCafeService\obj\Debug\netcoreapp2.0\MachineCafeAPI.dll
+C:\demo\MachineCafeAPI\MachineCafeService\obj\Debug\netcoreapp2.0\MachineCafeAPI.pdb

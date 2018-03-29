@@ -1,0 +1,96 @@
+﻿
+@{
+    /**/
+
+    ViewBag.Title = "ChoixBoisson";
+    MachineCafeIHM.Models.ChoixBoissonListApiPoco choixList = ViewBag.choixList;
+    string message = ViewBag.message;
+
+}
+
+
+
+<div class="panel panel-primary">
+    <!-- Default panel contents -->
+    <div class="panel-heading">Machine a café</div>
+    <div class="panel-body">
+
+        @if (!string.IsNullOrEmpty(message))
+    {
+        <span style="color:red">@message</span>
+}
+
+        @if (choixList != null && choixList.Count > 0)
+    {
+            <a href='@Url.Action("ChoixBoisson","MachineCafe")'>Réinitialiser ma recherche par badge</a>
+        @Html.Partial("ChoixBoissonList", choixList)
+}
+else
+{
+    using (Html.BeginForm("ChoixBoissonList", "MachineCafe"))
+    {
+        <div class="panel panel-primary">
+            <div class="panel-body">
+                <span>Vos anciens choix badge.</span>
+                <div class="row">
+                    <div class="col-md-3">
+                        Code de badge :
+                    </div>
+                    <input type="text" name="badgecode" id="badgecode" />
+                </div>
+                <div class="row" align="right" style="padding:5px">
+                    <button type="submit" id="btn_choixboisson" class="btn btn-primary">Chercher</button>
+                </div>
+                </div>
+            </div>
+
+}
+}
+        @using (Html.BeginForm("DemanderBoisson", "MachineCafe"))
+    {
+        <div class="panel panel-primary">
+            <div class="panel-body">
+                <span>Vous pouvez choisir un nouveau configuration de boisson.</span>
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>
+                            Boisson :
+                        </label>
+                    </div>
+                    <select name="BoissonType" class="selectpicker">
+                        <option value="Cafe">Cafe</option>
+                        <option value="Chocolat">Chocolat</option>
+                        <option value="Thé">Thé</option>
+                    </select>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>
+                            Quantité de sucre :
+                        </label>
+                    </div>
+                    <input type="number" value="0" name="SucreQuantite" min="0" max="5">
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Votre propre mug</label>
+                    </div>
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>Code de badge :</label>
+                    </div>
+                    <input type="text" name="codebadge" id="badgecode" />
+                </div>
+                <div align="right">
+                    <button type="submit" id="btn_choixboisson" class="btn btn-primary">Demande un nouveau boisson</button>
+                </div>
+            </div>
+        </div>
+}
+    </div>
+            </div>
+       

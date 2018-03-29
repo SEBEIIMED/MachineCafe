@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineCafeIHM", "MachineCafeIHM\MachineCafeIHM.csproj", "{B88386D1-A83D-4492-92BC-8226CBC8C828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{71B52DAF-7787-426F-A68B-C9C578A75C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88386D1-A83D-4492-92BC-8226CBC8C828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88386D1-A83D-4492-92BC-8226CBC8C828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88386D1-A83D-4492-92BC-8226CBC8C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88386D1-A83D-4492-92BC-8226CBC8C828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B52DAF-7787-426F-A68B-C9C578A75C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B52DAF-7787-426F-A68B-C9C578A75C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B52DAF-7787-426F-A68B-C9C578A75C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B52DAF-7787-426F-A68B-C9C578A75C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFCFBD0-450E-4D6E-A60D-1653B1D75025}
+	EndGlobalSection
+EndGlobal

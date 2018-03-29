@@ -1,0 +1,1 @@
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Debug\netcoreapp2.0\webapi2service.xml

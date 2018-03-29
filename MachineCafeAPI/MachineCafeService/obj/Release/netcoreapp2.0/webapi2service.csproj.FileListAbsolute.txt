@@ -1,0 +1,13 @@
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Release\netcoreapp2.0\webapi2service.deps.json
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Release\netcoreapp2.0\webapi2service.runtimeconfig.json
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Release\netcoreapp2.0\webapi2service.runtimeconfig.dev.json
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Release\netcoreapp2.0\webapi2service.dll
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Release\netcoreapp2.0\webapi2service.pdb
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Release\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\sebei\source\repos\webapi2service\webapi2service\bin\Release\netcoreapp2.0\ClassLibrary1.pdb
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\Release\netcoreapp2.0\webapi2service.csprojResolveAssemblyReference.cache
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\Release\netcoreapp2.0\webapi2service.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\Release\netcoreapp2.0\webapi2service.AssemblyInfoInputs.cache
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\Release\netcoreapp2.0\webapi2service.AssemblyInfo.cs
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\Release\netcoreapp2.0\webapi2service.dll
+C:\Users\sebei\source\repos\webapi2service\webapi2service\obj\Release\netcoreapp2.0\webapi2service.pdb

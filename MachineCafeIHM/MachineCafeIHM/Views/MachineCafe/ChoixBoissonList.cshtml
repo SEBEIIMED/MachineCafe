@@ -1,0 +1,64 @@
+﻿@model MachineCafeIHM.Models.ChoixBoissonListApiPoco
+@{
+    ViewBag.Title = "ChoixBoissonList";
+}
+
+
+@foreach (MachineCafeIHM.Models.ChoixBoissonApiPoco choix in Model)
+{
+    <div class="panel panel-primary">
+        <div class="panel-body">
+            @using (Html.BeginForm("DemanderBoisson", "MachineCafe"))
+            {
+                <input type="hidden" name="BoissonType" value="@choix.BoissonType" />
+                <input type="hidden" name="CodeBadge" value="@choix.CodeBadge" />
+                <input type="hidden" name="CustomMug" value="@choix.CustomMug" />
+                <input type="hidden" name="SucreQuantite" value="@choix.SucreQuantite" />
+                <span>Merci de choisisser votre boisson.</span>
+                <div class="row">
+                    <div class="col-md-3">                        
+                            @if (choix.BoissonType == "0")
+                            {
+                                <label>
+                                    Boisson: Café
+                                </label>
+                            }
+                            @if (choix.BoissonType == "1")
+                            {
+                                <label>Boisson: Chocolat</label>
+                            }
+                            @if (choix.BoissonType == "2")
+                            {
+                                <label>Boisson: Chocolat</label>   
+                            }
+                        
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>
+                            Quantité de sucre : @choix.SucreQuantite
+                        </label>
+                    </div>
+                </div>
+                <div class="row">
+            <div class="col-md-3">
+                @if (choix.CustomMug)
+                {
+                    <label>Votre propre mug : Oui</label>
+                }
+                else
+                {
+                        <label>Votre propre mug : Non</label>
+                }
+            </div>
+        </div>
+                <div align="right">
+                    <button type="submit" id="btn_choixboisson" class="btn btn-primary">Demande votre boisson</button>
+                </div>
+            }
+        </div>
+    </div>
+}
+

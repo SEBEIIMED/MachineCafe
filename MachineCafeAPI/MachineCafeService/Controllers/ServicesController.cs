@@ -14,7 +14,7 @@ namespace MachineCafeService.Controllers
     {
         // POST: api/Services
         [HttpPost]
-        public IActionResult GenerateToken([FromBody]string app_key, string app_secret)
+        public IActionResult GenerateToken(string app_key, string app_secret)
         {
             try
             {
